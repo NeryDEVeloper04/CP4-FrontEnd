@@ -46,7 +46,7 @@ body {
 }
 
 .text-block p {
-    color: #d1d1d1;
+    color: var(--branco);
 }
 
 .btn-saiba-mais {
