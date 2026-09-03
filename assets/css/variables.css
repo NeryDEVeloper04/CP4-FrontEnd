@@ -1,12 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
 :root {
-    --bg-dark: #121212;
-    --bg-light: #fff3ef;
-    --btn-color: #b4aaa3;
+    --preto: #121212;
+    --branco: #fff3ef;
+    --cinza: #b4aaa3;
     --btn-hover: #9e938b;
-    --text-light: #ffffff;
-    --text-dark: #121212;
-    --font-family: 'Poppins', sans-serif;
-    --gap-grid: 20px;
+    --fonte: 'Poppins', sans-serif;
 }
